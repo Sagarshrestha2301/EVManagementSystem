@@ -1,0 +1,4 @@
+Trip ID,Date,Distance (km),CO2 Saved (kg),Energy Consumed (kWh)
+Trip1,2025-03-14,30.0,5.4,6.0
+Trip2,2025-03-15,50.0,9.0,10.0
+Trip3,2025-03-16,40.0,7.2,8.0
